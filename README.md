@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend: React.js, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, Tailwind CSS UI Libraries: Material-UI, Bootstrap Tools & Platforms: Git, VS Code, Figma, Firebase API & Backend Integration: RESTful APIs, Node.js**
 
-- 🤝 I’m looking for help with **We Developers**
+- 🤝 I’m looking for help with **Web Developers**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kashanmalick](https://github.com/kashanmalick)
 
